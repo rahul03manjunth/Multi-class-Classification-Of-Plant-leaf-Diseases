@@ -65,7 +65,13 @@ All further image processing is done over a region of interest (ROI) defined at 
 **Classification:**
 From the previous results we analyze and evaluate the features like the area of the leaf, percentage(%) of the leaf infected, the perimeter of the leaf, etc., for all the leaf images, and pass it to the SVM classifier.
 
-
+# Multi-class classification
+This is a ML project built using CNN and LBP
+#Technologies Used
+-CNN
+-LBP
+-ML
+-Python
 ## Installation
 ---
 [(Back to top)](#list-of-contents)
